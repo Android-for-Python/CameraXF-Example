@@ -32,10 +32,10 @@ android.add_src = cameraxf/camerax_src
 # Check the current versions of those camera Gradle dependencies here:
 # https://developer.android.com/jetpack/androidx/releases/camera#dependencies
 
-android.gradle_dependencies = "androidx.camera:camera-core:1.0.0-rc05",
-   "androidx.camera:camera-camera2:1.0.0-rc05",
-   "androidx.camera:camera-lifecycle:1.0.0-rc05",
-   "androidx.camera:camera-view:1.0.0-alpha24",
+android.gradle_dependencies = "androidx.camera:camera-core:1.0.0",
+   "androidx.camera:camera-camera2:1.0.0",
+   "androidx.camera:camera-lifecycle:1.0.0",
+   "androidx.camera:camera-view:1.0.0-alpha25",
    "androidx.lifecycle:lifecycle-process:2.3.0"
 
 # Required for the androidx gradle_dependencies

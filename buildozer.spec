@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = CameraXF
+title = CXF
 
 # (str) Package name
 package.name = cameraxf
@@ -160,10 +160,10 @@ android.add_src = cameraxf/camerax_src
 #android.add_aars =
 
 # (list) Gradle dependencies to add
-android.gradle_dependencies = "androidx.camera:camera-core:1.0.0-rc05",
-   "androidx.camera:camera-camera2:1.0.0-rc05",
-   "androidx.camera:camera-lifecycle:1.0.0-rc05",
-   "androidx.camera:camera-view:1.0.0-alpha24",
+android.gradle_dependencies = "androidx.camera:camera-core:1.0.0",
+   "androidx.camera:camera-camera2:1.0.0",
+   "androidx.camera:camera-lifecycle:1.0.0",
+   "androidx.camera:camera-view:1.0.0-alpha25",
    "androidx.lifecycle:lifecycle-process:2.3.0"
 
 # (bool) Enable AndroidX support. Enable when 'android.gradle_dependencies'

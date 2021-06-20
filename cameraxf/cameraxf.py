@@ -74,7 +74,7 @@
 #   request_permissions([Permission.CAMERA,Permission.RECORD_AUDIO,
 #                        Permission.WRITE_EXTERNAL_STORAGE])
 #
-# Source https://github.com/RobertFlatt/Android-for-Python/cameraxf
+# Source https://github.com/Android-for-Python/CameraXF-Example
 #
 # build note: in the example pyzbar may fail to build, try this:
 # sudo apt-get update
