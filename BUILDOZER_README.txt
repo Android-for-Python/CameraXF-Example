@@ -1,7 +1,7 @@
 #####################################################################
 #
 # Add these to buildozer.spec
-# A total of 9 (count them) buildozer.spec parameters must be set....
+# A total of 8 (count them) buildozer.spec parameters must be set....
 #
 # To prevent issues building pyzbar do this first:
 # sudo apt-get install gettext
@@ -45,8 +45,5 @@ android.enable_androidx = True
 
 android.arch = armeabi-v7a, arm64-v8a, x86, or x86_64
 
-### As of 2021/04/22 uses p4a develop version
-
-p4a.branch = develop
 
 
