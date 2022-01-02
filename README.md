@@ -1,6 +1,8 @@
 CameraXF
 ========
 
+**DEPRECATED use [c4k_photo_example](https://github.com/Android-for-Python/c4k_photo_example)**
+
 *A Kivy Android Camera2 implementation*
 
 - CameraXF is a turnkey, full screen, photo, video, data analaysis camera.
